@@ -13,3 +13,4 @@ message Request {
 message Response {
     string result = 2;
 }
+
